@@ -1,0 +1,9 @@
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\obj\Debug\WindowsService9v2.Form1.resources
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\obj\Debug\WindowsService9v2.Properties.Resources.resources
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\obj\Debug\WindowsService9v2.csproj.GenerateResource.cache
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\obj\Debug\WindowsService9v2.csproj.CoreCompileInputs.cache
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\bin\Debug\WindowsService9v2.exe.config
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\bin\Debug\WindowsService9v2.exe
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\bin\Debug\WindowsService9v2.pdb
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\obj\Debug\WindowsService9v2.exe
+C:\Users\angelo\Desktop\Svi Folderi!\4_godina_I_semestar\.NET\WindowsService9v2\WindowsService9v2\obj\Debug\WindowsService9v2.pdb
